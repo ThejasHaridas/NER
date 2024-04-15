@@ -1,2 +1,6 @@
 spacy
 newspaper3k
+streamlit
+spacy
+newspaper3k
+en_core_web_sm
